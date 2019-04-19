@@ -1,7 +1,8 @@
-package com.example.onlineshoppingdemo
+package com.example.onlineshoppingdemo.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.onlineshoppingdemo.R
 
 class MainActivity : AppCompatActivity() {
 
