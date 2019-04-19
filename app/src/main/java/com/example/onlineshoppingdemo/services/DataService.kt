@@ -1,13 +1,14 @@
-package com.example.onlineshoppingdemo.Services
+package com.example.onlineshoppingdemo.services
 
-import com.example.onlineshoppingdemo.Model.Category
-import com.example.onlineshoppingdemo.Model.Product
+import com.example.onlineshoppingdemo.model.Category
+import com.example.onlineshoppingdemo.model.Product
 
 object DataService {
     val categories = listOf(
         Category("SHIRTS", "shirtimage"),
         Category("HOODIES", "hoodieimage"),
-        Category("HATS", "digitalgoodsimage")
+        Category("HATS", "hatimage"),
+        Category("DIGITAL", "digitalgoodsimage")
 
     )
 
@@ -20,8 +21,8 @@ object DataService {
 
     val hoodies = listOf(
         Product("Devslopes Hoodie Grey", "$30", "hoodie01"),
-        Product("Devslopes Hoodie Red", "$30", "hoodie02"),
-        Product("Devslopes Hoodie Gray", "$30", "hoodie03"),
+        Product("Devslopes Hoodie Red", "$20", "hoodie02"),
+        Product("Devslopes Hoodie Gray", "$40", "hoodie03"),
         Product("Devslopes Hoodie Black", "$30", "hoodie04")
     )
 
