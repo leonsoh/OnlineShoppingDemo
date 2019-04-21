@@ -16,6 +16,14 @@ object DataService {
         Product("Devslopes Graphic Beanie", "$18", "hat1"),
         Product("Devslopes Hat White", "$20", "hat2"),
         Product("Devslopes Hat Black", "$18", "hat3"),
+        Product("Devslopes Hat Snapback", "$22", "hat4"),
+        Product("Devslopes Graphic Beanie", "$18", "hat1"),
+        Product("Devslopes Hat White", "$20", "hat2"),
+        Product("Devslopes Hat Black", "$18", "hat3"),
+        Product("Devslopes Hat Snapback", "$22", "hat4"),
+        Product("Devslopes Graphic Beanie", "$18", "hat1"),
+        Product("Devslopes Hat White", "$20", "hat2"),
+        Product("Devslopes Hat Black", "$18", "hat3"),
         Product("Devslopes Hat Snapback", "$22", "hat4")
     )
 
